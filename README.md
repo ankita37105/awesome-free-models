@@ -173,6 +173,8 @@ Free, open-weight image and video generation models — run locally or via free 
 
 ## 🔀 Free API Routers
 
+- [APIClaw](https://apiclaw.biz/) — OpenAI-compatible API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM; flat-rate plans from $19/month with 50 free trial requests.
+
 > 📅 Last checked: September 20, 2026
 
 Open-source tools that route requests across multiple AI providers — unified API, automatic failover, and cost optimization.
